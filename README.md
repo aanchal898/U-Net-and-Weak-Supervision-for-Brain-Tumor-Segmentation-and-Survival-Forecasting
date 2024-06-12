@@ -1,4 +1,4 @@
-# U-Net-and-Weak-Supervision-for-Brain-Tumor-Segmentation-and-Survival-Forecasting
+# U-Net and Weak Supervision for Brain Tumor Segmentation and Survival Forecasting
 Enhancing glioma tumor segmentation and survival analysis
 
 - Developed and fine-tuned a U-Net model, achieving 63\% validation accuracy and 66% IoU on T2-weighted MRI images, enhancing glioma tumor segmentation. Implemented Test-Time Augmentation, boosting T2 class IoU by 5.1% to 66.31%.
